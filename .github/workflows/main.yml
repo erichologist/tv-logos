@@ -1,13 +1,12 @@
 name: Lint Markdown
   # You may pin to the exact commit or the version.
-  # uses: tomwhross/write-good-action@5897a4ff597390bd521c5c3a6c062bf96147a341
   uses: tomwhross/write-good-action@v1.6
   with:
     # Name of Directory to scan with write-good [default is "."]
     directory: # optional, default is .
           
 
-            - name: Markdown-HTML
+name: Markdown-HTML
   # You may pin to the exact commit or the version.
   # uses: ZacJW/markdown-html-action@581e6df07c787a1eb980cb2fd6c0c82ace9c9c82
   uses: ZacJW/markdown-html-action@1.2.0

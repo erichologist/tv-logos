@@ -886,9 +886,9 @@
 [sky-two-plus]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-two-plus-uk.png
 [sky-two]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-two-uk.png
 [sky-witness-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-witness-hd-uk.png
-[sky-witness-icon]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-icon-uk.png
+[sky-witness-icon]:https://i.imgur.com/SiyX97g.png
 [sky-witness-plus]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-plus-uk.png
-[sky-witness]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png
+[sky-witness]:https://i.imgur.com/SiyX97g.png
 [smile-tv3]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/smile-tv3-uk.png
 [smithsonian-channel-hd]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/smithsonian-channel-hd-uk.png
 [smithsonian-channel]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/smithsonian-channel-uk.png

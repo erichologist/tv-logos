@@ -2,7 +2,7 @@
 [<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 
-### 🌍 Countries
+# 🌍 Countries
 Click on a country to go to its directory. From there you can click the mosaic file at top to see the logos rendered. 
 
 |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |

@@ -91,8 +91,8 @@ Time delay channels are identified with "plus", example: challenge-plus-uk.png F
 If ampersand(&) is present in channel name then it will be replaced with "and", example: a-and-e-us.png
 For channels that dont authenticate with a network affiliate or Owned-and-operated station then I will use the call sign and/or city/region.
 Example: 7-news-miami-wsvn-us.png | 7-news-boston-whdh-us.png
-Be aware of the dash when searching for a logo in a long list of channels, include it in your search. You can also write your search string without the dashes and spaces, it might give better results
-Example: channel-4 instead of channel 4, or just channel4
-A horizontal version of a logo will have hz in its name if there's a regular version also. Example: bbc-world-news-hz-uk.png
+* Be aware of the dash when searching for a logo in a long list of channels, include it in your search. You can also write your search string without the dashes and spaces, it might give better results
+* Example: channel-4 instead of channel 4, or just channel4
+* A horizontal version of a logo will have hz in its name if there's a regular version also. Example: bbc-world-news-hz-uk.png
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA. By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
 For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com I will try my best to reply within 24hr. Thank you.

@@ -17,20 +17,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 | 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
 | 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |
 
-
-
-|  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |  ![Space] |
-|---|---|---|---|---|---|
-| 🇦🇱 [Albania]  | 🇦🇷 [Argentina]  | 🇦🇺 [Australia]  | 🇦🇹 [Austria]  | 🇧🇪 [Belgium]  | 🇨🇦 [Canada]  |
-| 🌎 [Caribbean] | 🇨🇷 [Costa-Rica]  | 🇭🇷 [Croatia]  | 🇩🇰 [Denmark]  | 🇫🇮 [Finland]  | 🇫🇷 [France]  |
-| 🇩🇪 [Germany]  | 🇬🇷 [Greece]  | 🇭🇰 [Hong-Kong]  | 🇮🇸 [Iceland]  | 🇮🇳 [India]  | 🇮🇩 [Indonesia]  |
-| 🌍 [International] | 🇮🇱 [Israel]  | 🇮🇹 [Italy]  | 🇱🇧 [Lebanon]  | 🇱🇹 [Lithuania]  | 🇲🇾 [Malaysia]  |
-| 🇲🇹 [Malta]  | 🇲🇽 [Mexico]  | 🇳🇱 [Netherlands]  | 🇳🇿 [New-Zealand]  | 🌍 [Nordic] | 🇳🇴 [Norway]  |
-| 🇵🇭 [Philippines]  | 🇵🇱 [Poland]  | 🇵🇹 [Portugal]  | 🇷🇴 [Romania]  | 🇷🇺 [Russia]  | 🇷🇸 [Serbia]  |
-| 🇸🇬 [Singapore]  | 🇿🇦 [South-Africa]  | 🇪🇸 [Spain]  | 🇸🇪 [Sweden]  | 🇨🇭 [Switzerland]  | 🇹🇷 [Turkey]  |
-| 🇺🇦 [Ukraine]  | 🇦🇪 [United-Arab-Emirates]  | 🇬🇧 [United-Kingdom]  | 🇺🇸 [United-States]  | 🌍 [World-Africa] | 🌏 [World-Asia] |
-| 🌍 [World-Europe] | 🌎 [World-Latin-America] | 🌏 [World-Middle-East] | 🌏 [World-Oceania] | ⭐️ [Misc] | 📼 [Vod] |
-
 ### 💛 Support original creator to continue their project, you can donate by clicking the donate button. 
 [<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 

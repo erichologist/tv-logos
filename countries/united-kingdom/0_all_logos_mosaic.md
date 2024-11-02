@@ -826,7 +826,7 @@
 [yesterday-dark-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/yesterday-dark-uk.png "yesterday-dark-uk"
 [yesterday-plus-1-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/yesterday-plus-1-uk.png "yesterday-plus-1-uk"
 [yesterday-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/yesterday-uk.png "yesterday-uk"
-
+[space]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/space-1500.png "Space"
 
 
 

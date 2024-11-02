@@ -122,10 +122,6 @@
 | ![xxx-college-uk] | ![xxx-girl-girl-uk] | ![xxx-mums-uk] | ![xxx-public-pickups-uk] | ![yanga-uk] | ![yesterday-dark-uk] |
 | ![yesterday-plus-1-uk] | ![yesterday-uk] | ![space] | ![space] | ![space] | ![space] |
 
-
-
-
-
 [4-more-alt-squares-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/4-more-alt-squares-uk.png "4-more-alt-squares-uk"
 [4-more-alt-striped-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/4-more-alt-striped-uk.png "4-more-alt-striped-uk"
 [4-more-plus-1-uk]:https://github.com/erichologist/tv-logos/raw/refs/heads/main/countries/united-kingdom/4-more-plus-1-uk.png "4-more-plus-1-uk"

@@ -866,7 +866,6 @@
 [Yoga]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/yoga-vod.png
 [Yu Gi Oh]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/yu-gi-oh-vod.png
 [Yu Gi Oh En Espanol]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/yu-gi-oh-en-espanol-vod.png
-   |     |
 [Space]:https://github.com/Tapiosinn/tv-logos/raw/master/misc/%CE%A9/space-1500.png
 [Space]:https://github.com/Tapiosinn/tv-logos/raw/master/misc/%CE%A9/space-1500.png
 [Space]:https://github.com/Tapiosinn/tv-logos/raw/master/misc/%CE%A9/space-1500.png
@@ -877,4 +876,4 @@
 [21 Jump Street]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/21-jump-street-vod.png
 [24 Hour Free Movies]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/24-hour-free-movies-vod.png
 [70s Cinema Us]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/70s-cinema-vod-us.png
-   [![80s rewind Us](https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/80s-rewind-vod-us.png)](https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/
+[80s rewind Us]:https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/80s-rewind-vod-us.png
